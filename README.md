@@ -1,16 +1,45 @@
-### Hi there 👋
+<div align="center">
+<img width="100%" height = "350px" src="https://www.immigration.ca/wp-content/uploads/2018/07/Where-to-Get-the-Best-Salary-as-a-Software-Developer-in-Canada_112185177.jpeg" alt="cover" />
+</div>
 
-<!--
-**mayii527/mayii527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi Developers!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=mayii527.mayii527)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<div size='20px'> Hi! My name is Mayii Cadavid Aguilar.. Thank You for taking the time to view my GitHub Profile :smile: 
+</div>
+
+<h2> About Me <img src = "https://cotonico.com/wp-content/uploads/2020/08/Panda-Music-300x284.png" width = 70px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://assets.bedu.org/images/top-lenguajes-programacion-2021.jpg" />
+
+
+- 🔭 I’m currently working on I am currently working on software engineering projects at Holberton School. I am a student.
+
+- 🌱 I’m currently learning and developing projects with C, Python, Ruby, Java Scrip, Linux, data structure, modern high-level languages. I am a native of Colombia, my mother tongue is Spanish and I am learning English to have a better performance in my profession.  
+
+- 👯 I’m looking to collaborate on software development projects to have more experience and better skills in the industry.  
+
+- 💬 Talk to me about Python, JavaScript, C. 
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/mayii527?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/mayii527?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
+
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.linkedin.com/in/https://www.linkedin.com/in/mayi-cadavid-3502a5215/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.twitter.com/https://twitter.com/MayiiCadavid'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.github.com/mayii527'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+ 
+
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=mayii527&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayii527&theme=dark" />
+</a>
