@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://cotonico.com/wp-content/uploads/2020/08/Panda-Music-300x284.png" width = 70px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://assets.bedu.org/images/top-lenguajes-programacion-2021.jpg" />
+<img width="55%" align="right" alt="Github" src="https://elements-video-cover-images-0.imgix.net/files/261073161/code_1_loop_img.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=fe0980c20633f65c9bba363e25c3c113" />
 
 
 - 🔭 I am currently working on software engineering projects at Holberton School. I am a student.
