@@ -16,7 +16,7 @@
 <img width="55%" align="right" alt="Github" src="https://assets.bedu.org/images/top-lenguajes-programacion-2021.jpg" />
 
 
-- 🔭 I’m currently working on I am currently working on software engineering projects at Holberton School. I am a student.
+- 🔭 I am currently working on software engineering projects at Holberton School. I am a student.
 
 - 🌱 I’m currently learning and developing projects with C, Python, Ruby, Java Scrip, Linux, data structure, modern high-level languages. I am a native of Colombia, my mother tongue is Spanish and I am learning English to have a better performance in my profession.  
 
