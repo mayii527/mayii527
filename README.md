@@ -18,7 +18,7 @@
 
 - 🔭 I am currently working on software engineering projects at Holberton School. I am a student.
 
-- 🌱 I’m currently learning and developing projects with C, Python, Ruby, Java Scrip, Linux, data structure, modern high-level languages. I am a native of Colombia, my mother tongue is Spanish and I am learning English to have a better performance in my profession.  
+- 🌱 I’m currently learning and developing projects with C, Python, Ruby, JavaScript, Linux, data structure, modern high-level languages. I am a native of Colombia, my mother tongue is Spanish and I am learning English to have a better performance in my profession.  
 
 - 👯 I’m looking to collaborate on software development projects to have more experience and better skills in the industry.  
 
