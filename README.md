@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "350px" src="https://www.immigration.ca/wp-content/uploads/2018/07/Where-to-Get-the-Best-Salary-as-a-Software-Developer-in-Canada_112185177.jpeg" alt="cover" />
+<img width="100%" height = "350px" src="https://scalmax.pl/images/uslugi/programistyczne.jpg" alt="cover" />
 </div>
 
 <h1> Hi Developers!! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
