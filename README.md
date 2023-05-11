@@ -28,6 +28,7 @@
 <a href= https://github.com/mayii527?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/mayii527?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
 <a href= https://github.com/mayii527?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png'> </a>
+<a href= https://github.com/mayii527?tab=repositories&q=&type=&language=python&sort= > <img width ='150px' src ='https://ventas.teorema-rd.com/wp-content/uploads/2020/05/Html5-JS-css-logo.jpg'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
